@@ -1,5 +1,5 @@
 #================================================#
-#           LED Patterns Functions               #
+#         LED Lighting Effects Functions         #
 #================================================#
 
 import RPi.GPIO as GPIO
